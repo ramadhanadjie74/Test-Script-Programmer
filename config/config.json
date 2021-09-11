@@ -1,0 +1,23 @@
+{
+	"development": {
+		"username": "fit_admin",
+		"password": "strong-password",
+		"database": "fit_back_end",
+		"host": "127.0.0.1",
+		"dialect": "postgres"
+	},
+	"test": {
+		"username": "fit_admin",
+		"password": "strong-password",
+		"database": "fit_back_end",
+		"host": "127.0.0.1",
+		"dialect": "postgres"
+	},
+	"production": {
+		"username": "fit_admin",
+		"password": "strong-password",
+		"database": "fit_back_end",
+		"host": "127.0.0.1",
+		"dialect": "postgres"
+	}
+}
